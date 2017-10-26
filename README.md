@@ -15,7 +15,7 @@ Dogs can be found in:
 
 ![alt text][logo]
 
-[logo]: https://github.com/satubipost/ex1/edit/master/image/dog.jpg "A cute Dog"
+[logo]: https://github.com/satubipost/ex1/edit/master/images/dog.jpg "A cute Dog"
 
 ## Breeds
 here is a table with a number of dog breeds 
