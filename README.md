@@ -22,7 +22,7 @@ here is a table with a number of dog breeds
 
 | English name        | Hebrew Name           |
 | ------------- |:-------------:| 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      |  
+| German Shepard      | רועה גרמני| 
+| Siberian Husky     | האסקי סיבירי     |  
+| Akita Ino | אקיטה אינו    |  
 
