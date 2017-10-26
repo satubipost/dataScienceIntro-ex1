@@ -1,2 +1,2 @@
-# ex1
-markdown language exercise
+# אודות בעל החיים דינגו
+## חשוב לדעת!
