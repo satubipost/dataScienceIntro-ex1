@@ -13,7 +13,7 @@ Dogs can be found in:
 + location
 + location
 
-![Image of Dog](https://github.com/satubipost/ex1/edit/master/images/dog.jpg )
+![Image of Dog](ex1/images/dog.jpg )
 
 
 ## Breeds
