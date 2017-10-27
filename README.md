@@ -13,7 +13,7 @@ Dogs can be found in:
 + location
 + location
 
-![Image of Dog](ex1/images/dog.jpg )
+![Image of github's cat](/images/dog.jpg)
 
 
 ## Breeds
